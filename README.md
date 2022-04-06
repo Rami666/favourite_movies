@@ -1,1 +1,1 @@
-# favourite_movies
+# Favourite Movies
